@@ -1,2 +1,2 @@
-# Flight-Price-Prediction---HIT
+# Flight-Price-Prediction-HIT
 Final project in the course data science
